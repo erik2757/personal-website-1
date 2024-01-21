@@ -54,3 +54,38 @@ footer{
     min-width: 100vw;
     background-color: gray;
 }
+
+main{
+    display: flexbox;
+}
+section{
+    background-color: rgb(1, 162, 255);
+    margin: 1rem 5rem;
+    
+}
+
+.construction img{
+    float: right;
+    min-height: 15vh;
+    min-width: 15vw;
+}
+
+.art img{
+    float: right;
+    min-height: 15vh;
+    min-width: 15vw;
+}
+
+.project img{
+    float: right;
+    min-height: 15vh;
+    min-width: 15vw;
+}
+h2{
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid black;
+}
+
+.title{
+    text-align: center;
+}

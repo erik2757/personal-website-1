@@ -92,6 +92,5 @@ section{
 
 .hobby{
     color: rgb(30, 255, 0);
-    position: relative;
-    margin-left: 23rem;
+    text-align: center;
 }
