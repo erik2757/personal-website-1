@@ -54,3 +54,44 @@ footer{
     min-width: 100vw;
     background-color: gray;
 }
+
+article {
+    display: flexbox;
+    justify-content: column;
+    
+}
+
+.Gym img{
+    float: right;
+    min-height: 15vh;
+    min-width: 15vw;
+
+    
+}
+
+.ps5 img{
+    float: left;
+    min-height: 15vh;
+    min-width: 15vw;
+}
+
+.travel img{
+    float: right;
+    min-height: 15vh;
+    min-width: 15vw;
+
+}
+h2{
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(30, 255, 0);
+}
+
+section{
+    color: aliceblue;
+}
+
+.hobby{
+    color: rgb(30, 255, 0);
+    position: relative;
+    margin-left: 23rem;
+}
