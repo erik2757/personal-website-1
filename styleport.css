@@ -89,3 +89,8 @@ h2{
 .title{
     text-align: center;
 }
+.foot{
+    text-align: center;
+    position: relative;
+    top: .5rem;
+}

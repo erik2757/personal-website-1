@@ -94,3 +94,8 @@ section{
     color: rgb(30, 255, 0);
     text-align: center;
 }
+.foot{
+    text-align: center;
+    position: relative;
+    top: .5rem;
+}
