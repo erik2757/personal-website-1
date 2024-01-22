@@ -13,10 +13,13 @@ header{
     height: 5rem;
     width: 100vw;
     background-color: gray;
+    background-image: url(https://wallpapercave.com/wp/wp5575501.jpg);
+    color: aliceblue;
 }
 header > div{
     display: flex;
     align-items: center;
+   
 
 }
 img{
@@ -29,6 +32,7 @@ nav > a{
     margin-right: 1rem;
     color: black;
     font-size: 1.5rem;
+    color: aliceblue;
 
 } 
 
@@ -36,6 +40,8 @@ main{
     min-height: 80vh;
     min-width: 80vw;
     background-color: blue;
+    background-image: url(https://i.pinimg.com/originals/93/11/85/93118536f1a0b9bc8c95f4f4a599c6cc.jpg);
+    background-size: cover;
 }
 
 aside{
@@ -53,6 +59,8 @@ footer{
     min-height: 10vh;
     min-width: 100vw;
     background-color: gray;
+    background-image: url(https://wallpapercave.com/wp/wp5575501.jpg);
+    background-size: cover;
 }
 
 article {
@@ -83,7 +91,7 @@ article {
 }
 h2{
    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(30, 255, 0);
+    color: rgb(0, 255, 242);
 }
 
 section{
@@ -91,7 +99,7 @@ section{
 }
 
 .hobby{
-    color: rgb(30, 255, 0);
+    color: rgb(0, 255, 242);
     text-align: center;
 }
 .foot{
